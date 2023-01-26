@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/david-segal/static/css/main.aea5f9ed.css",
+    "main.js": "/david-segal/static/js/main.c38a2a8a.js",
+    "static/media/profile.jpg": "/david-segal/static/media/profile.b6f33b7e3a4c52ca90de.jpg",
+    "static/media/about.jpg": "/david-segal/static/media/about.14405e09735c51ee0f0d.jpg",
+    "static/media/work2.jpg": "/david-segal/static/media/work2.786a88ae75bc951909fa.jpg",
+    "static/media/work1.jpg": "/david-segal/static/media/work1.341f9a1c9d7c70e7b409.jpg",
+    "static/media/DAVID_SEGAL.pdf": "/david-segal/static/media/DAVID_SEGAL.54ceb24e565930c562d0.pdf",
+    "index.html": "/david-segal/index.html",
+    "main.aea5f9ed.css.map": "/david-segal/static/css/main.aea5f9ed.css.map",
+    "main.c38a2a8a.js.map": "/david-segal/static/js/main.c38a2a8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea5f9ed.css",
+    "static/js/main.c38a2a8a.js"
+  ]
+}
